@@ -1,3 +1,3 @@
 $("li").click(function(){
-  $(this).css("color", "cyan")
+  $(this).toggleClass("completed");
 });
