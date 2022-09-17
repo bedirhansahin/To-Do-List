@@ -18,4 +18,3 @@ $("#todo-input").keypress(function(e){
     
   };
 });
-
